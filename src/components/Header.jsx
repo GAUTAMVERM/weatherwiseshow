@@ -2,9 +2,9 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div>
-      <header>Weather-Show</header>
-    </div>
+    <header className="header">
+      <h1>Weather-Show ⛅</h1>
+    </header>
   );
 };
 

@@ -4,7 +4,7 @@ import house from "../assets/house.png";
 const Footer = () => {
   return (
     <>
-      <footer>
+      <footer className="footer">
         <img src={house} alt="ghrela"></img>
       </footer>
     </>
